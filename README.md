@@ -18,8 +18,8 @@ Model Details: Quick summary—300D embeddings, bidirectional LSTM/GRU, Transfor
 
 Results: Highlight accuracy—78% on test set, plus loss/accuracy plots.
 
-Notes: Add key info—uses basic_english tokenizer, GPU/CPU support, tuned batch size (64).
+Notes: uses basic_english tokenizer, GPU/CPU support, tuned batch size (64).
 
-License: State if unlicensed or choose one (e.g., MIT).
+License:  unlicensed 
 
 
